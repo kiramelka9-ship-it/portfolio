@@ -1,0 +1,41 @@
+body {
+color:black;
+Font: 600 24px;    
+}
+
+.box {
+background: red;
+border-radius: 6px;
+cursor: pointer;
+height: 95px;
+width: 95px;
+line-height: 95px;
+text-align: center;
+transition-property: background;
+transition-duration: 1s;
+transition-timing-function: linear;
+transition:border-radius 1s ease-in;
+}
+.box:hover {
+background: green;
+border-radius: 50px;    
+}
+.box2 {
+    background: orange;
+    border-radius:6px;
+    cursor:pointer;
+    height:95px;
+    line-height: 95px;
+    text-align:center;
+    width:95px;
+    margin-top: 20px;
+    transition-property: border-radius;
+    transition-duration: 1s;
+    transition-timing-function: linear;
+    transition:border-radius 1s ease-in;
+    transition: transform 1s linear;
+}
+.box2:hover {
+    transform:scale(0.5);
+
+}

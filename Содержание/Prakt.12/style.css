@@ -1,0 +1,36 @@
+h1{
+    font-family: Sans-serif;
+    text-align:center;
+    color: blue;
+    border: dotted;
+    border-color: teal;
+    padding: 50px;
+    margin: 30px;
+}
+h2{
+    font-family:Tahoma;
+    color:orangered;
+    font-size: 15pt;
+    line-height:20pt;
+    text-indent:20pt;
+    border: double;
+    border-color: blue green;
+    border-width:5px;
+    padding: 20px;
+    margin: 25px;
+    background-color:blanchedalmond;
+}
+h3{
+    font-family:Tahoma;
+    color: hotpink;
+    font-size: 15pt;
+    line-height:20pt;
+    text-indent:20pt;
+    text-align:justify;
+    border: ridge;
+    border-color: lightcoral;
+    border-width:25px;
+    padding: 20px;
+    margin: 25px;
+background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-12/1639708563_244-catherineasquithgallery-com-p-fon-nezhno-rozovii-tsvet-467.jpg);
+}

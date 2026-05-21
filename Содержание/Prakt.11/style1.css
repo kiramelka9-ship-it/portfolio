@@ -1,0 +1,25 @@
+h1{
+    font-size: 30pt; 
+    line-height : 20pt ;
+    text-align:center;
+    color: red; 
+    background-image: url("https://proprikol.ru/wp-content/uploads/2019/08/kartinki-na-zadnij-fon-34.jpg");
+    background-attachment: fixed;
+    background-repeat: repeat-x repeat-y;
+    font-family: "Century Gothic";
+}
+p{
+    font-family: "Century Gothic";
+    font-size: 20pt; 
+    line-height : 20pt ;
+    text-align:justify;
+    text-indent: 15pt;
+}
+.fon{
+    background-color: yellow;
+}
+body{
+    background-image: url("https://catherineasquithgallery.com/uploads/posts/2021-02/1612805969_7-p-abstraktnii-fon-sinii-goluboi-7.jpg");
+    background-attachment: fixed;
+    background-repeat: repeat;
+}
